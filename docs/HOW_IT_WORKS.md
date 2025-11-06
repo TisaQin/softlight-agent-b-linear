@@ -1,0 +1,4 @@
+- **Planner**: converts natural request into intent (like “create”, “filter”, “invite”).
+- **Actor**: finds elements and performs actions.
+- **Detector**: identifies new states via DOM role changes, modals, or URL transitions.
+- **Capture**: saves screenshot + JSON metadata.
